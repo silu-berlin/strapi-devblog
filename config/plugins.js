@@ -1,7 +1,7 @@
 module.exports = {
     // ...
     'github-projects': {
-        enabled: true,
+        enabled: false,
         resolve: './src/plugins/github-projects'
     },
     // ...
